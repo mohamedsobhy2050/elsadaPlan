@@ -78,9 +78,4 @@ border-radius: 6px;
 }
 
 
-@media screen and  (orientation:portrait){
-  html{
-    width: 100vw;
-    transform: rotate(90deg);
-  }
-}
+
