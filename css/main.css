@@ -78,8 +78,8 @@ border-radius: 6px;
 }
 
 
-@media only screen and  (orientation:portrait){
-  body{
+@media screen and  (orientation:portrait){
+  html{
     width: 100vw;
     transform: rotate(90deg);
   }
